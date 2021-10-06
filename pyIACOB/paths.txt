@@ -1,0 +1,9 @@
+
+main=/home/charlie/Desktop/MSc/Grant/IAC_Science/Project/
+data=/home/charlie/Desktop/MSc/Grant/IAC_Science/Project/Spectra/
+maui=/Users/abelink/Documents/MAUI/
+ib=/Users/abelink/MEGA/PhD/programs/idl/broadanalys/
+mist=/Users/abelink/Documents/MIST/
+
+
+HD2905_FH/ ,/home/charlie/Desktop/MSc/Grant/IAC_Science/Project/HD2905_SONG/
